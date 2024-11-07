@@ -6,8 +6,6 @@ This is a simple implementation of Generative Adversarial Networks (GAN) for gen
 
 I use simple BCE loss function for calculating the loss and Adam optimizer (lr=0.0001) for training.
 
-read the notebook online:
-
 ## Architecture
 
 - The **generator** is series of Linear layers with BatchNorm and ReLU activations.
