@@ -2,7 +2,7 @@
 
 This is a simple implementation of Generative Adversarial Networks (GAN) for generating MNIST digits.
 
-![step_80000](images/step-80000.png)
+![cover](images/gan-mnist-cover.jpg)
 
 I use simple BCE loss function for calculating the loss and Adam optimizer (lr=0.0001) for training.
 
