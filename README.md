@@ -18,16 +18,21 @@ I use simple BCE loss function for calculating the loss and Adam optimizer (lr=0
 ## Generation History
 
 - Step 0
+
 ![step_0](images/step-0.png)
 
 - step 1000
+
 ![step_1000](images/step-1000.png)
 
 - step 3000
+
 ![step_3000](images/step-3000.png)
 
 - step 18000
+
 ![step_18000](images/step-18000.png)
 
 - step 80000
+
 ![step_80000](images/step-80000.png)
